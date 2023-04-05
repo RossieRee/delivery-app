@@ -8,7 +8,7 @@ export default function RecievedPage() {
 
     return(
         <>
-            <h1>Order Incoming</h1>
+            <h1>Orders Incoming</h1>
                     
             <h1>Orders Delivered</h1>
         </>

@@ -1,3 +1,28 @@
+# Project
+I am copying the Yodel delivery site. I am copying the Tracking Page, Send Page and will make a custom Page where the consumer can see the progress their parcel. Screenshots of the design are in the screenshots folder. 
+
+Technologies I plan on using:
+React
+Typescript
+MongoDB
+Graphql
+Bootstrap
+Tailwind
+Jest
+
+The aim of this project is to show what I have learnt and that I can implement my skills quickly.
+
+# Today
+Today
+1. I explored different Routing methods and settled with "react-router-dom"
+2. I added Error Page
+3. Added Layout
+4. Left comments on inaccuracies I would like to come back to (labelled TO DO)
+
+I would like to learn and implement advanced typescript like narrowing, type guard, type predicates, etc. I would also like to improve my use of react-typescript (.tsx)
+
+**I am doing 12 hour shift in my current job today so not much done**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
